@@ -1,0 +1,16 @@
+C:\Users\epasanen\source\repos\CxApi\CxAPI_Core\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\epasanen\source\repos\CxApi\CxAPI_Core\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\epasanen\source\repos\CxApi\CxAPI_Core\bin\Release\netcoreapp2.1\win-x64\CxAPI_Core.exe
+C:\Users\epasanen\source\repos\CxApi\CxAPI_Core\bin\Release\netcoreapp2.1\win-x64\CsvHelper.cs
+C:\Users\epasanen\source\repos\CxApi\CxAPI_Core\bin\Release\netcoreapp2.1\win-x64\appsettings.json
+C:\Users\epasanen\source\repos\CxApi\CxAPI_Core\bin\Release\netcoreapp2.1\win-x64\CxAPI_Core.deps.json
+C:\Users\epasanen\source\repos\CxApi\CxAPI_Core\bin\Release\netcoreapp2.1\win-x64\CxAPI_Core.runtimeconfig.json
+C:\Users\epasanen\source\repos\CxApi\CxAPI_Core\bin\Release\netcoreapp2.1\win-x64\CxAPI_Core.runtimeconfig.dev.json
+C:\Users\epasanen\source\repos\CxApi\CxAPI_Core\bin\Release\netcoreapp2.1\win-x64\CxAPI_Core.dll
+C:\Users\epasanen\source\repos\CxApi\CxAPI_Core\bin\Release\netcoreapp2.1\win-x64\CxAPI_Core.pdb
+C:\Users\epasanen\source\repos\CxApi\CxAPI_Core\obj\Release\netcoreapp2.1\win-x64\CxAPI_Core.csprojAssemblyReference.cache
+C:\Users\epasanen\source\repos\CxApi\CxAPI_Core\obj\Release\netcoreapp2.1\win-x64\CxAPI_Core.csproj.CoreCompileInputs.cache
+C:\Users\epasanen\source\repos\CxApi\CxAPI_Core\obj\Release\netcoreapp2.1\win-x64\CxAPI_Core.AssemblyInfoInputs.cache
+C:\Users\epasanen\source\repos\CxApi\CxAPI_Core\obj\Release\netcoreapp2.1\win-x64\CxAPI_Core.AssemblyInfo.cs
+C:\Users\epasanen\source\repos\CxApi\CxAPI_Core\obj\Release\netcoreapp2.1\win-x64\CxAPI_Core.dll
+C:\Users\epasanen\source\repos\CxApi\CxAPI_Core\obj\Release\netcoreapp2.1\win-x64\CxAPI_Core.pdb
